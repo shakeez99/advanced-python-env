@@ -1,5 +1,0 @@
-word = input("Enter a word: ")
-n = int(input("Enter a number: "))
-
-for char in word:
-    print(char * n)
