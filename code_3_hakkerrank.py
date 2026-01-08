@@ -5,3 +5,6 @@ for i in range(1, n + 1):
     result = result * 10 + i
 
 print(result)
+
+
+# Code is wrong in the hakkerrank platform, correct code is above
