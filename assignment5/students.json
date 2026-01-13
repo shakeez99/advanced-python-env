@@ -1,0 +1,7 @@
+[
+	{ "name": "ASet", "age": 18, "grades": [90, 85, 92] },
+	{ "name": "Damir", "age": 19, "grades": [78, 88, 80] },
+	{ "name": "Madi", "age": 20, "grades": [100, 92, 78] },
+	{ "name": "Mansur", "age": 20, "grades": [100, 95, 89] },
+	{ "name": "Nurkhan", "age": 19, "grades": [100, 95, 85] }
+]
